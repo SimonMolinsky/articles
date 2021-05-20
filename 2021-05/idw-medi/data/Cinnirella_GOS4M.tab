@@ -1,0 +1,19 @@
+/* DATA DESCRIPTION:
+Citation:	Cinnirella, Sergio; Bruno, Delia Evelina; Pirrone, Nicola; Horvat, Milena; Živković, Igor; Evers, David; Johnson, Sarah; Sunderland, Elsie (2019): Mercury concentrations in biota in the Mediterranean Sea, a compilation of 40 years of surveys. PANGAEA, https://doi.org/10.1594/PANGAEA.899723, 
+	Supplement to: Cinnirella, S et al. (2019): 40-years of surveys in Mediterranean Sea: a database of mercury concentrations in biota. Scientific Data, https://doi.org/10.1038/s41597-019-0219-y
+Abstract:	As a part of the 2017-2019 GEO Work Programme, the Global Observation System for Mercury (GOS4M) Flagship (http://gos4m.org) is aimed to support the implementation of the Minamata Convention on Mercury. This database has been constructed with data on mercury in Mediterranean marine biota obtained from all available literature and public datasets that span since the beginning of '70. The M2B database includes 24465 records retrieved from 541 sources that include Animalia, Plantae and Chromista Kingdoms. All records were associated to geographical coordinates and controlled to avoid duplication as several of them were obtained from grey literature. The following parameters have been retrieved when available: Country; Location; FAO fisheries region; Latitude; Longitude; Geographical precision code; Kingdom; Class; Order; Family; Species scientific name; Species common name; Species 6-digit codde; Marine habitat; Trophic level; Reference for Trophic level; Sampling Depth; Sample Lenght; Sample Weight; Age; Sex; Sampled tissue; Hg species; Tissue water content; Mean Hg concentration; Minumum Hg concentration; Maximum Hg concentration; Standar Deviation; Standard Error; Sample size; Reference source; Reference id number; Sampling date; Remarks.
+Keyword(s):	biota; food; Global Observation System for Mercury; inorganic mercury; intake; Minamata Convention; organic mercury
+Coverage:	LATITUDE: 36.000000 * LONGITUDE: 16.000000
+Event(s):	Mediterranean_Sea * LATITUDE: 36.000000 * LONGITUDE: 16.000000 * LOCATION: Mediterranean Sea * COMMENT: position describes the center of area
+Parameter(s):	File name (File name) * PI: Cinnirella, Sergio (sergio.cinnirella@cnr.it)
+	File format (File format) * PI: Cinnirella, Sergio (sergio.cinnirella@cnr.it)
+	File size [kByte] (File size) * PI: Cinnirella, Sergio (sergio.cinnirella@cnr.it)
+	Uniform resource locator/link to file (URL file) * PI: Cinnirella, Sergio (sergio.cinnirella@cnr.it)
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0)
+Size:	16 data points
+*/
+File name	File format	File size [kByte]	URL file
+190516_m2b_marine_biota	csv	5663	http://store.pangaea.de/Publications/Cinnirella-etal_2019/190516_m2b_marine_biota.csv
+190326_m2b_ref	csv	130	http://store.pangaea.de/Publications/Cinnirella-etal_2019/190326_m2b_ref.csv
+med_biota_hg	csv	8741	http://store.pangaea.de/Publications/Cinnirella-etal_2019/med_biota_hg.xml
+readme	pdf	72	http://store.pangaea.de/Publications/Cinnirella-etal_2019/readme.pdf
